@@ -1,0 +1,39 @@
+name: Update Combined Tamil IPTV Playlist
+
+on:
+  schedule:
+    - cron: '0 4 * * *'        # Runs every day at 4:00 AM UTC
+  workflow_dispatch:           # Allows you to run it manually anytime
+
+jobs:
+  merge-playlists:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}   # Required for pushing changes
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run M3U Merger Script
+        run: python merge_m3u.py
+
+      - name: Commit and push if changes detected
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          git add combined-tam.m3u
+          
+          if git diff --cached --quiet; then
+            echo "No changes to commit. Playlist is already up to date."
+          else
+            git commit -m "chore: update combined-tam.m3u with latest iptv-org Tamil channels + group TV"
+            git push
+            echo "✅ Successfully updated and pushed combined-tam.m3u"
+          fi
