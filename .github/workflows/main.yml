@@ -9,20 +9,14 @@ jobs:
   merge-playlists:
     runs-on: ubuntu-latest
 
-    # This forces the actions to use Node.js 24 immediately (removes the warning)
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+        uses: actions/checkout@v4   # Still latest stable as of March 2026
 
-      - name: Set up Python 3.11
+      - name: Set up Python 3.12
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.12'
 
       - name: Run M3U Merger Script
         run: python merge_m3u.py
