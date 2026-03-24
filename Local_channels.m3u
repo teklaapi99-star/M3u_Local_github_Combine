@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Rasi TV HD" tvg-logo="https://oxolive.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-16-2025-09_08_38-AM-1-200x300.png" group-title="Local" http-referrer="https://onezoo.net",Rasi TV HD
+#EXTVLCOPT:http-referrer=https://onezoo.net
+https://rasinetworks.in/live/rasitvhd/index.mpd
+#EXTINF:-1 tvg-id="Rasi Hollywood HD" tvg-logo="https://oxolive.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-16-2025-09_14_50-AM-1-200x300.png" group-title="Local" http-referrer="https://onezoo.net",Rasi Hollywood HD
+#EXTVLCOPT:http-referrer=https://onezoo.net
+https://rasinetworks.in/live/rasihollywoodhd/index.mpd
+#EXTINF:-1 tvg-id="Rasi Cinema HD" tvg-logo="https://oxolive.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-16-2025-09_03_55-AM-1-200x300.png" group-title="Local" http-referrer="https://onezoo.net",Rasi Cinema HD
+#EXTVLCOPT:http-referrer=https://onezoo.net
+https://rasinetworks.in/live/rasicinemahd/index.mpd
+#EXTINF:-1 tvg-id="Rasi Movies HD" tvg-logo="https://oxolive.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-16-2025-09_12_27-AM-1-200x300.png" group-title="Local" http-referrer="https://onezoo.net",Rasi Movies HD
+#EXTVLCOPT:http-referrer=https://onezoo.net
+https://rasinetworks.in/live/rasimovieshd/index.mpd
+#EXTINF:-1 tvg-id=157 tvg-name="Kumaran TV" tvg-logo="https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-21-2025-09_31_38-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Kumaran TV
+https://stream.rojatv.cloud/kumarantv/gobi/index.m3u8
+#EXTINF:-1 tvg-id=150 tvg-name="Roja TV" tvg-logo="https://oxolive.com/wp-content/uploads/2025/09/ChatGPT-Image-Nov-8-2025-09_15_01-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="local", Roja Tv
+https://live.rojatv.cloud/rojatv/rojatv/index.m3u8
+#EXTINF:-1 tvg-id=150 tvg-name="SanaPlus"tvg-logo="https://oxolive.com/wp-content/uploads/2025/04/ChatGPT-Image-Oct-18-2025-07_07_00-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="local", SanaPlus
+https://galaxyott.live//hls/sanaplus.m3u8
+#EXTINF:-1 tvg-id=151 tvg-name="Roja Movies" tvg-logo="https://oxolive.com/wp-content/uploads/2025/09/ChatGPT-Image-Nov-8-2025-09_15_14-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Roja Movies
+https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
+#EXTINF:-1 tvg-id=152 tvg-name="Thai Tv" tvg-logo="https://oxolive.com/wp-content/uploads/2025/09/ChatGPT-Image-Nov-8-2025-08_57_34-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Thai Tv
+https://ap02.iqplay.tv:8082/hls/thailive/playlist.m3u8
+#EXTINF:-1 tvg-id=153 tvg-name="Yet TV" tvg-logo="https://oxolive.com/wp-content/uploads/2025/08/ChatGPT-Image-Nov-8-2025-08_47_03-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Yet Tv
+https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
+#EXTINF:-1 tvg-id=156 tvg-name="Apple TV HD" tvg-logo="https://oxolive.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-10-2025-09_43_08-PM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Apple TV HD
+https://view.rcserver.in/tmp_hls18/index.m3u8
+#EXTINF:-1 tvg-id=156 tvg-name="Jayam TV HD" tvg-logo="https://oxolive.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-10-2025-09_44_48-PM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Jayam TV HD
+https://view.rcserver.in/tmp_hls20/index.m3u8
+#EXTINF:-1 tvg-id=156 tvg-name="Thirai TV" tvg-logo="https://oxolive.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-10-2025-09_24_12-PM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Thirai TV
+https://view.apserver.in/tmp_hls2/thiraitv/index.m3u8
+#EXTINF:-1 tvg-id=156 tvg-name="Jayam TV Namakkal" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-19-2025-04_55_57-PM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Jayam TV Namakkal
+https://rtmp.bmlive.net/bms/jayamtv/stream.m3u8
+#EXTINF:-1 tvg-id=156 tvg-name="Sakthi TV HD" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-8-2025-08_43_36-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Sakthi TV HD
+https://live.sscloud7.in/live/sakthitv/index.m3u8
+#EXTINF:-1 tvg-id=156 tvg-name="7 Green 4K" tvg-logo="https://oxolive.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-27-2025-10_22_25-PM-2-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", 7 Green 4K
+https://account33.livebox.co.in/7GREEN4Khls/live.m3u8
+#EXTINF:-1 tvg-id=156 tvg-name="Durai TV" tvg-logo="https://oxolive.com/wp-content/uploads/2024/12/ChatGPT-Image-Apr-10-2025-12_33_14-PM-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Durai TV
+https://ipcloud.live/duraitv/live/index.m3u8
+#EXTINF:-1 tvg-id=157 tvg-name="Max Movies" tvg-logo="https://oxolive.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-30-2025-04_47_48-PM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Max Movies
+https://live.maxtn.in/maxmovies/maxmovies/index.m3u8
+#EXTINF:-1 tvg-id=157 tvg-name="Max Music" tvg-logo="https://oxolive.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-30-2025-04_52_36-PM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Max Music
+https://live.maxtn.in/maxmusic/maxmusic/index.m3u8
+#EXTINF:-1 tvg-id=157 tvg-name="KCN HD" tvg-logo="https://oxolive.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-19-2025-10_16_14-PM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", KCN HD
+https://view.rcserver.in/tmp_hls12/kcntv/index.m3u8
+#EXTINF:-1 tvg-id=157 tvg-name="Jayam TV Karur" tvg-logo="https://oxolive.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-11-2025-04_07_30-PM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Jayam TV Karur
+https://view.rcserver.in/tmp_hls10/jayamtvkarur/index.m3u8
+#EXTINF:-1 tvg-id=157 tvg-name="Kumari TV" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Nov-4-2025-10_13_20-PM-1.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Kumari TV
+https://rtmp.applelive.in/gvkumaritv/gvkumaritv/index.m3u8
+#EXTINF:-1 tvg-id=157 tvg-name="KCTV" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-10-2025-04_40_29-PM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", KCTV
+https://rtmp.bmlive.net/bms/kctv/stream.m3u8
+#EXTINF:-1 tvg-id=157 tvg-name="Amman TV" tvg-logo="https://oxolive.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-8-2025-08_07_29-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Amman TV
+https://app.ashokadigital.net/app/78b1bc36/index.m3u8
+#EXTINF:-1 tvg-id=157 tvg-name="Amman Plus" tvg-logo="https://oxolive.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-8-2025-08_04_51-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Amman Plus
+https://app.ashokadigital.net/app/e39f503a/index.m3u8
+#EXTINF:-1 tvg-id=157 tvg-name="7Star Music" tvg-logo="https://oxolive.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-8-2025-08_00_53-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", 7Star Music
+https://app.ashokadigital.net/app/9346e98d/index.m3u8
+#EXTINF:-1 tvg-id=157 tvg-name="7Star TV" tvg-logo="https://oxolive.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-8-2025-08_00_55-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", 7Star TV
+https://app.ashokadigital.net/app/ed8bd4a7/index.m3u8
+#EXTINF:-1 tvg-id=157 tvg-name="RJ Tamil TV" tvg-logo="https://oxolive.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-27-2025-10_25_51-PM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", RJ Tamil TV
+https://ipcloud.live/rjtamiltv/rjtamil/index.m3u8
+#EXTINF:-1 tvg-id=157 tvg-name="Boys TV" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-19-2025-04_49_59-PM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Boys TV
+https://rtmp.applelive.in/boystv/boystv/index.m3u8
+#EXTINF:-1 tvg-id=157 tvg-name="RC Music" tvg-logo="https://oxolive.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-10-2025-10_13_53-PM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", RC Music
+https://view.rcserver.in/tmp_hls2/stream/index.m3u8
+#EXTINF:-1 tvg-id=157 tvg-name="Karur City" tvg-logo="https://oxolive.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-10-2025-09_38_27-PM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Karur City
+https://view.rcserver.in/tmp_hls17/karurcity/index.m3u8
+#EXTINF:-1 tvg-id=157 tvg-name="Tharun Movies HD" tvg-logo="https://oxolive.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-21-2025-09_43_13-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Tharun Movies HD
+https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
+#EXTINF:-1 tvg-id=157 tvg-name="Akash TV" tvg-logo="https://tulnit.com/wp-content/uploads/2025/04/Apr-30-2025-09_40_32-PM-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Akash TV
+https://account2.livebox.co.in/AkashTvhls/live.m3u8
+#EXTINF:-1 tvg-id=157 tvg-name="SK TV" tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Nov-8-2025-08_52_27-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", SK TV
+https://stream.galaxyott.live/live/sktv/index.m3u8
+#EXTINF:-1 tvg-id=157 tvg-name="Modern Marvels" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-27-2025-09_22_18-PM-1-200x300.png" tvg-language="English" tvg-type="TV" group-title="Documentary", Modern Marvels
+https://debzvrwex1ip7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-59uqfidguq5ol/v1/aenetworks_modernmarvels_2/samsungheadend_ca/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id=157 tvg-name="Science Is Amazing" tvg-logo="https://oxolive.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-3-2025-12_34_38-PM-200x300.jpg" tvg-language="English" tvg-type="TV" group-title="Documentary", Science Is Amazing
+https://amg00136-wbd-amg00136c20-tablo-us-7190.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id=157 tvg-name="Autentic Travel" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-23-2025-09_06_35-PM-1-200x300.png" tvg-language="English" tvg-type="TV" group-title="Documentary", Autentic Travel
+https://autentic-autentictravel-1-au.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id=157 tvg-name="Evolution Earth" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-27-2025-09_20_39-PM-1-200x300.png" tvg-language="English" tvg-type="TV" group-title="Documentary", Evolution Earth
+https://d3em2dvvzq3oj4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-23j2wegjm8ftd/Evolution_Earth.m3u8
+#EXTINF:-1 tvg-id=157 tvg-name="Discovery Asia" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-18-2025-07_31_49-AM-1-200x300.png" tvg-language="English" tvg-type="TV" group-title="Documentary", Discovery Asia
+https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
+#EXTINF:-1 tvg-id=157 tvg-name="Wild Earth" tvg-logo="https://oxolive.com/wp-content/uploads/2022/12/ChatGPT-Image-Apr-13-2025-09_14_27-PM-200x300.png" tvg-language="English" tvg-type="TV" group-title="Documentary", Wild Earth
+https://wildearth-lg.amagi.tv/hls/amagi_hls_data_wildearth-wildearth-lgAA/CDN/master.m3u8
+#EXTINF:-1 tvg-id=157 tvg-name="HD Travel TV" tvg-logo="https://oxolive.com/wp-content/uploads/2023/12/ChatGPT-Image-Oct-27-2025-08_51_49-PM-1-200x300.png" tvg-language="English" tvg-type="TV" group-title="Documentary", HD Travel TV
+https://amg02132-sofast-hdtravel-samsungin-qe6ms.amagi.tv/playlist/amg02132-sofast-hdtravel-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id=157 tvg-name="4K Travel TV" tvg-logo="https://oxolive.com/wp-content/uploads/2023/12/ChatGPT-Image-Apr-13-2025-08_41_26-PM-200x300.png" tvg-language="English" tvg-type="TV" group-title="Documentary", 4K Travel TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
+#EXTINF:-1 tvg-id=157 tvg-name="Mr Bean Animated" tvg-logo="https://oxolive.com/wp-content/uploads/2025/08/ChatGPT-Image-Oct-28-2025-09_44_12-AM-1-200x300.png" tvg-language="English" tvg-type="TV" group-title="Kids", Mr Bean Animated
+https://amg00627-banijay-amg00627c28-lg-gb-4244.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
