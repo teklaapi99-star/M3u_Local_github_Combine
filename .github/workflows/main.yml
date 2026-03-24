@@ -11,10 +11,13 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v6        # Updated to v6 (Node 24)
+        uses: actions/checkout@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: false   # Required for v6 when pushing later
 
       - name: Set up Python 3.12
-        uses: actions/setup-python@v6    # Updated to v6 (Node 24)
+        uses: actions/setup-python@v6
         with:
           python-version: '3.12'
 
