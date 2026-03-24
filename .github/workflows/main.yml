@@ -11,10 +11,10 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4   # Still latest stable as of March 2026
+        uses: actions/checkout@v6        # Updated to v6 (Node 24)
 
       - name: Set up Python 3.12
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6    # Updated to v6 (Node 24)
         with:
           python-version: '3.12'
 
