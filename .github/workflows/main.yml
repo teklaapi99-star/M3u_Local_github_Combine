@@ -14,14 +14,13 @@ jobs:
         uses: actions/checkout@v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          persist-credentials: false
+          # ✅ Removed persist-credentials: false
 
       - name: Set up Python 3.12
         uses: actions/setup-python@v6
         with:
           python-version: '3.12'
 
-      # ✅ NEW STEP: Install dependencies
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
