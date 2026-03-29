@@ -8,6 +8,10 @@ https://rasinetworks.in/live/rasihollywoodhd/index.mpd
 https://rasinetworks.in/live/rasicinemahd/index.mpd
 #EXTINF:-1 tvg-id="Rasi Movies HD" tvg-logo="https://oxolive.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-16-2025-09_12_27-AM-1-200x300.png" group-title="Local" http-referrer="https://onezoo.net",Rasi Movies HD
 https://rasinetworks.in/live/rasimovieshd/index.mpd
+#EXTINF:-1 tvg-id="Rasi Cinemax HD" tvg-logo="https://tulnit.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-16-2025-09_06_38-AM-1-200x300.png" group-title="Local" http-referrer="https://onezoo.net",Rasi Cinemax HD
+https://rasinetworks.in/live/rasicinemaxhd/index.mpd
+#EXTINF:-1 tvg-id="Rasi Comedy HD" tvg-logo="https://tulnit.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-16-2025-09_01_19-AM-1-200x300.png" group-title="Local" http-referrer="https://onezoo.net",Rasi Comedy HD
+https://rasinetworks.in/live/rasicomedyhd/index.mpd
 #EXTINF:-1 tvg-id=157 tvg-name="Kumaran TV" tvg-logo="https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-21-2025-09_31_38-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Kumaran TV
 https://stream.rojatv.cloud/kumarantv/gobi/index.m3u8
 #EXTINF:-1 tvg-id=150 tvg-name="Roja TV" tvg-logo="https://oxolive.com/wp-content/uploads/2025/09/ChatGPT-Image-Nov-8-2025-09_15_01-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Roja Tv
@@ -70,6 +74,10 @@ https://account2.livebox.co.in/AkashTvhls/live.m3u8
 https://stream.galaxyott.live/live/sktv/index.m3u8
 #EXTINF:-1 tvg-id=157 tvg-name="Modern Marvels" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-27-2025-09_22_18-PM-1-200x300.png" tvg-language="English" tvg-type="TV" group-title="Documentary", Modern Marvels
 https://debzvrwex1ip7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-59uqfidguq5ol/v1/aenetworks_modernmarvels_2/samsungheadend_ca/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id=157 tvg-name="HOW TO by WB TV" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-6-2026-09_31_51-AM-1-200x300.png" tvg-language="English" tvg-type="TV" group-title="Documentary", HOW TO by WB TV
+https://dbrb49pjoymg4.cloudfront.net/10001/99951392/hls/playlist.m3u8?ads.xumo_channelId=99951392
+#EXTINF:-1 tvg-id=157 tvg-name="Modern Innovations by History" tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-18-2026-10_42_50-PM-1-200x300.png" tvg-language="English" tvg-type="TV" group-title="Documentary", Modern Innovations by History
+https://aka-live1050.delivery.roku.com/8b391845-f316-43b2-9f8a-b91c39a636ae/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id=157 tvg-name="Science Is Amazing" tvg-logo="https://oxolive.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-3-2025-12_34_38-PM-200x300.jpg" tvg-language="English" tvg-type="TV" group-title="Documentary", Science Is Amazing
 https://amg00136-wbd-amg00136c20-tablo-us-7190.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id=157 tvg-name="Autentic Travel" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-23-2025-09_06_35-PM-1-200x300.png" tvg-language="English" tvg-type="TV" group-title="Documentary", Autentic Travel
