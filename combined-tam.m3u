@@ -87,13 +87,15 @@ https://d3em2dvvzq3oj4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id=157 tvg-name="Discovery Asia" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-18-2025-07_31_49-AM-1-200x300.png" tvg-language="English" tvg-type="TV" group-title="Documentary", Discovery Asia
 https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
 #EXTINF:-1 tvg-id=157 tvg-name="Wild Earth" tvg-logo="https://oxolive.com/wp-content/uploads/2022/12/ChatGPT-Image-Apr-13-2025-09_14_27-PM-200x300.png" tvg-language="English" tvg-type="TV" group-title="Documentary", Wild Earth
-https://wildearth-lg.amagi.tv/hls/amagi_hls_data_wildearth-wildearth-lgAA/CDN/master.m3u8
+https://aka-live1050.delivery.roku.com/ed00d96f-28b9-4d3f-a01e-9c98bfe984c2/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id=157 tvg-name="HD Travel TV" tvg-logo="https://oxolive.com/wp-content/uploads/2023/12/ChatGPT-Image-Oct-27-2025-08_51_49-PM-1-200x300.png" tvg-language="English" tvg-type="TV" group-title="Documentary", HD Travel TV
 https://amg02132-sofast-hdtravel-samsungin-qe6ms.amagi.tv/playlist/amg02132-sofast-hdtravel-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id=157 tvg-name="4K Travel TV" tvg-logo="https://oxolive.com/wp-content/uploads/2023/12/ChatGPT-Image-Apr-13-2025-08_41_26-PM-200x300.png" tvg-language="English" tvg-type="TV" group-title="Documentary", 4K Travel TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
+https://sofast-lg.vgcdn.net/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/manifest.m3u8
 #EXTINF:-1 tvg-id=157 tvg-name="Mr Bean Animated" tvg-logo="https://oxolive.com/wp-content/uploads/2025/08/ChatGPT-Image-Oct-28-2025-09_44_12-AM-1-200x300.png" tvg-language="English" tvg-type="TV" group-title="Kids", Mr Bean Animated
 https://amg00627-banijay-amg00627c28-lg-gb-4244.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
+#EXTINF:-1 tvg-id=157 tvg-name="Pink Panther" tvg-logo="https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-6-2026-09_33_42-AM-1-200x300.png" tvg-language="English" tvg-type="TV" group-title="Kids", Pink Panther
+https://linear-1069.frequency.stream/dist/tcltv/1069/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="7SMusic.in@SD" tvg-logo="https://i.imgur.com/zDiIhdN.png" group-title="TV",7S Music (576p)
 https://mumt03.tangotv.in/7SMUSIC/index.m3u8
 #EXTINF:-1 tvg-id="Andflix.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_image.png" group-title="TV",&flix HD (1080p)
@@ -259,8 +261,6 @@ http://ptu.ridsys.in/riptv/live/STAR_MOVIES_HD/index.m3u8
 http://116.90.120.151:8000/play/a0ij/index.m3u8
 #EXTINF:-1 tvg-id="StarSports1Tamil.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_TAMIL/images/LOGO_HD/image.png" group-title="TV",Star Sports 1 Tamil (576p)
 http://ptu.ridsys.in/riptv/live/STAR_SPORTS_TAMIL/index.m3u8
-#EXTINF:-1 tvg-id="StarSports2.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" group-title="TV",Star Sports 2 HD (1080p)
-http://116.90.120.151:8000/play/a0jb/index.m3u8
 #EXTINF:-1 tvg-id="StarTamilTelevision.lk@SD" tvg-logo="https://i.imgur.com/fjHcr9z.jpg" group-title="TV",Star Tamil Television (360p)
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8?dvr=
 #EXTINF:-1 tvg-id="StarVijay.in@SD" tvg-logo="https://i.imgur.com/dZtJHAe.png" group-title="TV",Star Vijay (576p)
