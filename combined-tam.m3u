@@ -12,6 +12,8 @@ https://rasinetworks.in/live/rasimovieshd/index.mpd
 https://rasinetworks.in/live/rasicinemaxhd/index.mpd
 #EXTINF:-1 tvg-id="Rasi Comedy HD" tvg-logo="https://tulnit.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-16-2025-09_01_19-AM-1-200x300.png" group-title="Local" http-referrer="https://onezoo.net",Rasi Comedy HD
 https://rasinetworks.in/live/rasicomedyhd/index.mpd
+#EXTINF:-1 tvg-id="Rasi Music HD" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Dec-16-2025-09_13_45-AM-1-200x300.png" group-title="Local" http-referrer="https://onezoo.net",Rasi Music HD
+https://rasinetworks.in/live/rasimusichd/index.mpd
 #EXTINF:-1 tvg-id=157 tvg-name="Kumaran TV" tvg-logo="https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-21-2025-09_31_38-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Kumaran TV
 https://stream.rojatv.cloud/kumarantv/gobi/index.m3u8
 #EXTINF:-1 tvg-id=150 tvg-name="Roja TV" tvg-logo="https://oxolive.com/wp-content/uploads/2025/09/ChatGPT-Image-Nov-8-2025-09_15_01-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Roja Tv
@@ -52,8 +54,10 @@ https://rtmp.applelive.in/gvkumaritv/gvkumaritv/index.m3u8
 https://rtmp.bmlive.net/bms/kctv/stream.m3u8
 #EXTINF:-1 tvg-id=157 tvg-name="Amman TV" tvg-logo="https://oxolive.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-8-2025-08_07_29-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Amman TV
 https://app.ashokadigital.net/app/78b1bc36/index.m3u8
-#EXTINF:-1 tvg-id=157 tvg-name="Amman Plus" tvg-logo="https://oxolive.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-8-2025-08_04_51-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Amman Plus
-https://app.ashokadigital.net/app/e39f503a/index.m3u8
+#EXTINF:-1 tvg-id=157 tvg-name="MN TV" tvg-logo="https://tulnit.com/wp-content/uploads/2021/04/ChatGPT-Image-Jan-11-2026-07_34_35-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", MN TV
+https://mntv.livebox.co.in/mntvhls/live.m3u8
+#EXTINF:-1 tvg-id=157 tvg-name="MN Music" tvg-logo="https://tulnit.com/wp-content/uploads/2021/04/ChatGPT-Image-Sep-23-2025-08_02_37-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", MN Music
+https://mntv.livebox.co.in/musichls/live.m3u8
 #EXTINF:-1 tvg-id=157 tvg-name="7Star Music" tvg-logo="https://oxolive.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-8-2025-08_00_53-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", 7Star Music
 https://app.ashokadigital.net/app/9346e98d/index.m3u8
 #EXTINF:-1 tvg-id=157 tvg-name="7Star TV" tvg-logo="https://oxolive.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-8-2025-08_00_55-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", 7Star TV
@@ -167,7 +171,6 @@ https://cdn-3.pishow.tv/live/473/master.m3u8
 #EXTINF:-1 tvg-id="MKSix.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MK_Six.png" group-title="TV",MK Six (720p) [Not 24/7]
 https://cdn-3.pishow.tv/live/1253/master.m3u8
 #EXTINF:-1 tvg-id="MarutamTV.in@SD" tvg-logo="https://i.imgur.com/cFNw4Af.png" group-title="TV",MNTV (1080p)
-https://mntv.livebox.co.in/mntvhls/live.m3u8
 #EXTINF:-1 tvg-id="MonaraTV.lk@SD" tvg-logo="https://i.imgur.com/EB99mzR.png" group-title="TV",Monara TV (720p) [Not 24/7]
 https://jk3lz8xklw79-hls-live.5centscdn.com/lpl/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="MoonTV.in@SD" tvg-logo="https://i.imgur.com/3l25EZI.png" group-title="TV",Moon TV (720p)
