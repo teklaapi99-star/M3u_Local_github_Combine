@@ -160,6 +160,8 @@ http://103.154.3.101:5001/live/420.m3u8
 https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
 #EXTINF:-1 tvg-id="JayaTV.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JAYA_TV/images/LOGO_HD/image.png" group-title="TV",Jaya TV (1080p)
 http://103.154.3.101:5001/live/419.m3u8
+#EXTINF:-1 tvg-id="JothiTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JOTHI_TV/images/LOGO_HD/image.png" group-title="TV",Jothi TV (1080p)
+http://103.154.3.101:5001/live/2768.m3u8
 #EXTINF:-1 tvg-id="KalaignarMurasu.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143561_ld_h15_aa.png?lock=720x540" group-title="TV",Kalaignar Murasu (396p)
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/murasu_nim_https/050522/murasu/playlist.m3u8
 #EXTINF:-1 tvg-id="KalaignarSeithigal.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143769_ld_h15_aa.png?lock=720x540" group-title="TV",Kalaignar Seithigal (720p)
@@ -280,6 +282,8 @@ https://sl.vodep39240327.workers.dev/channel/SONY%20YAY.m3u8
 https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 #EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="TV",Star Movies HD (1080p)
 http://103.157.248.140:8000/play/a01t/index.m3u8
+#EXTINF:-1 tvg-id="StarSports2.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" group-title="TV",Star Sports 2 HD (1080p)
+https://mini.allinonereborn.fun/tata.php?id=11819
 #EXTINF:-1 tvg-id="StarTamilTelevision.lk@SD" tvg-logo="https://i.imgur.com/fjHcr9z.jpg" group-title="TV",Star Tamil Television (360p)
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8?dvr=
 #EXTINF:-1 tvg-id="StarVijay.in@SD" tvg-logo="https://i.imgur.com/dZtJHAe.png" group-title="TV",Star Vijay (576p)
