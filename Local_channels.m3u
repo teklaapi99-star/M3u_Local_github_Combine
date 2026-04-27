@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="V Tamil" tvg-logo="src="https://tulnit.com/wp-content/uploads/2026/04/ChatGPT-Image-Apr-27-2026-09_11_52-AM-1-200x300.png"" group-title="Local" http-referrer="https://onezoo.net",V Tamil
+#EXTINF:-1 tvg-id="V Tamil" tvg-logo="src="https://tulnit.com/wp-content/uploads/2026/04/ChatGPT-Image-Apr-27-2026-09_11_52-AM-1-200x300.png" group-title="Local" http-referrer="https://onezoo.net",V Tamil
 #EXTVLCOPT:http-referrer=https://onezoo.net
 https://hlsstream.olidigital.in/vtv/vtv/index.m3u8
 #EXTINF:-1 tvg-id="YET TV Music" tvg-logo="https://tulnit.com/wp-content/uploads/2026/04/ChatGPT-Image-Apr-26-2026-10_03_22-PM-1-200x300.png" group-title="Local" http-referrer="https://onezoo.net",YET TV Music
@@ -11,9 +11,9 @@ https://app.ashokadigital.net/app/89c09acf/index.m3u8
 #EXTINF:-1 tvg-id="Lion TV" tvg-logo="https://tulnit.com/wp-content/uploads/2026/04/ChatGPT-Image-Apr-21-2026-12_23_08-PM-1-200x300.png" group-title="Local" http-referrer="https://onezoo.net",Lion TV
 #EXTVLCOPT:http-referrer=https://onezoo.net
 https://stream.iplive.xyz/smmedia/liontv/index.m3u8
-#EXTINF:-1 tvg-id="Rasi Cinemax HD" tvg-logo="https://tulnit.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-16-2025-09_06_38-AM-1-200x300.png" group-title="Local" http-referrer="https://onezoo.net",Rasi Cinemax HD
+#EXTINF:-1 tvg-id="Jeyam Plus" tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-28-2026-10_41_07-PM-1-200x300.png" group-title="Local" http-referrer="https://onezoo.net",Jeyam Plus
 #EXTVLCOPT:http-referrer=https://onezoo.net
-https://rasinetworks.in/live/rasicinemaxhd/index.mpd
+https://ipcloud.live/mmtv/jeyamplus/index.m3u8
 #EXTINF:-1 tvg-id="Star Media" tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-30-2026-03_49_26-PM-1-200x300.png" group-title="Local" http-referrer="https://onezoo.net",Star Media
 #EXTVLCOPT:http-referrer=https://onezoo.net
 https://rtmp.notvstream.in/starmedia/starmedia/index.m3u8
@@ -74,9 +74,9 @@ https://ipcloud.live/rjtamiltv/rjtamil/index.m3u8
 https://rtmp.applelive.in/boystv/boystv/index.m3u8
 #EXTINF:-1 tvg-id=157 tvg-name="RC Music" tvg-logo="https://oxolive.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-10-2025-10_13_53-PM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", RC Music
 https://view.rcserver.in/tmp_hls2/stream/index.m3u8
-#EXTINF:-1 tvg-id=157 tvg-name="Karur City" tvg-logo="https://oxolive.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-10-2025-09_38_27-PM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Karur City
-https://view.rcserver.in/tmp_hls17/karurcity/index.m3u8
-#EXTINF:-1 tvg-id=157 tvg-name="Tharun Movies HD" tvg-logo="https://oxolive.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-21-2025-09_43_13-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Tharun Movies HD
+#EXTINF:-1 tvg-id=157 tvg-name="Jawahar TV HD" tvg-logo="https://oxolive.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-10-2025-09_38_27-PM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Jawahar TV HD
+https://app.ashokadigital.net/app/6a01fb97/index.m3u8
+#EXTINF:-1 tvg-id=157 tvg-name="Tharun Movies HD" tvg-logo="https://tulnit.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-8-2025-08_13_17-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Tharun Movies HD
 https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
 #EXTINF:-1 tvg-id=157 tvg-name="Akash TV" tvg-logo="https://tulnit.com/wp-content/uploads/2025/04/Apr-30-2025-09_40_32-PM-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Akash TV
 https://account2.livebox.co.in/AkashTvhls/live.m3u8
