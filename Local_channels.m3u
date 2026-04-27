@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Rasi TV HD" tvg-logo="https://oxolive.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-16-2025-09_08_38-AM-1-200x300.png" group-title="Local" http-referrer="https://onezoo.net",Rasi TV HD
+#EXTINF:-1 tvg-id="V Tamil" tvg-logo="src="https://tulnit.com/wp-content/uploads/2026/04/ChatGPT-Image-Apr-27-2026-09_11_52-AM-1-200x300.png"" group-title="Local" http-referrer="https://onezoo.net",V Tamil
 #EXTVLCOPT:http-referrer=https://onezoo.net
-https://rasinetworks.in/live/rasitvhd/index.mpd
-#EXTINF:-1 tvg-id="Rasi Hollywood HD" tvg-logo="https://oxolive.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-16-2025-09_14_50-AM-1-200x300.png" group-title="Local" http-referrer="https://onezoo.net",Rasi Hollywood HD
+https://hlsstream.olidigital.in/vtv/vtv/index.m3u8
+#EXTINF:-1 tvg-id="YET TV Music" tvg-logo="https://tulnit.com/wp-content/uploads/2026/04/ChatGPT-Image-Apr-26-2026-10_03_22-PM-1-200x300.png" group-title="Local" http-referrer="https://onezoo.net",YET TV Music
 #EXTVLCOPT:http-referrer=https://onezoo.net
-https://rasinetworks.in/live/rasihollywoodhd/index.mpd
-#EXTINF:-1 tvg-id="Rasi Cinema HD" tvg-logo="https://oxolive.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-16-2025-09_03_55-AM-1-200x300.png" group-title="Local" http-referrer="https://onezoo.net",Rasi Cinema HD
+https://yetmusic.keralive.workers.dev/yettvplus1.m3u8
+#EXTINF:-1 tvg-id="V Tamil HD" tvg-logo="https://oxolive.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-16-2025-09_03_55-AM-1-200x300.png" group-title="Local" http-referrer="https://onezoo.net",V Tamil HD
 #EXTVLCOPT:http-referrer=https://onezoo.net
-https://rasinetworks.in/live/rasicinemahd/index.mpd
-#EXTINF:-1 tvg-id="Rasi Movies HD" tvg-logo="https://oxolive.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-16-2025-09_12_27-AM-1-200x300.png" group-title="Local" http-referrer="https://onezoo.net",Rasi Movies HD
+https://app.ashokadigital.net/app/89c09acf/index.m3u8
+#EXTINF:-1 tvg-id="Lion TV" tvg-logo="https://tulnit.com/wp-content/uploads/2026/04/ChatGPT-Image-Apr-21-2026-12_23_08-PM-1-200x300.png" group-title="Local" http-referrer="https://onezoo.net",Lion TV
 #EXTVLCOPT:http-referrer=https://onezoo.net
-https://rasinetworks.in/live/rasimovieshd/index.mpd
+https://stream.iplive.xyz/smmedia/liontv/index.m3u8
 #EXTINF:-1 tvg-id="Rasi Cinemax HD" tvg-logo="https://tulnit.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-16-2025-09_06_38-AM-1-200x300.png" group-title="Local" http-referrer="https://onezoo.net",Rasi Cinemax HD
 #EXTVLCOPT:http-referrer=https://onezoo.net
 https://rasinetworks.in/live/rasicinemaxhd/index.mpd
-#EXTINF:-1 tvg-id="Rasi Comedy HD" tvg-logo="https://tulnit.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-16-2025-09_01_19-AM-1-200x300.png" group-title="Local" http-referrer="https://onezoo.net",Rasi Comedy HD
+#EXTINF:-1 tvg-id="Star Media" tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-30-2026-03_49_26-PM-1-200x300.png" group-title="Local" http-referrer="https://onezoo.net",Star Media
 #EXTVLCOPT:http-referrer=https://onezoo.net
-https://rasinetworks.in/live/rasicomedyhd/index.mpd
-#EXTINF:-1 tvg-id="Rasi Music HD" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Dec-16-2025-09_13_45-AM-1-200x300.png" group-title="Local" http-referrer="https://onezoo.net",Rasi Music HD
+https://rtmp.notvstream.in/starmedia/starmedia/index.m3u8
+#EXTINF:-1 tvg-id="MTV Chennai" tvg-logo="https://tulnit.com/wp-content/uploads/2026/04/ChatGPT-Image-Apr-25-2026-05_51_29-PM-1-200x300.png" group-title="Local" http-referrer="https://onezoo.net",MTV Chennai
 #EXTVLCOPT:http-referrer=https://onezoo.net
-https://rasinetworks.in/live/rasimusichd/index.mpd
+https://stream.ashokadigital.net/mtvlive/mtvlive/index.m3u8
 #EXTINF:-1 tvg-id=157 tvg-name="Kumaran TV" tvg-logo="https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-21-2025-09_31_38-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Kumaran TV
 https://stream.rojatv.cloud/kumarantv/gobi/index.m3u8
 #EXTINF:-1 tvg-id=150 tvg-name="Roja TV" tvg-logo="https://oxolive.com/wp-content/uploads/2025/09/ChatGPT-Image-Nov-8-2025-09_15_01-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Roja Tv
