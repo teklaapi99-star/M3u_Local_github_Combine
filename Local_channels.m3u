@@ -4,8 +4,8 @@
 https://hlsstream.olidigital.in/vtv/vtv/index.m3u8
 #EXTINF:-1 tvg-id="YET TV Music" tvg-logo="https://tulnit.com/wp-content/uploads/2026/04/ChatGPT-Image-Apr-26-2026-10_03_22-PM-1-200x300.png" group-title="Local" http-referrer="https://onezoo.net",YET TV Music
 #EXTVLCOPT:http-referrer=https://onezoo.net
-https://yetmusic.keralive.workers.dev/yettvplus1.m3u8
-#EXTINF:-1 tvg-id="V Tamil HD" tvg-logo="https://oxolive.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-16-2025-09_03_55-AM-1-200x300.png" group-title="Local" http-referrer="https://onezoo.net",V Tamil HD
+https://yetmusic.keralive.workers.dev/yettv2.m3u8
+#EXTINF:-1 tvg-id="V Tamil HD" tvg-logo="https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-27-2026-10_56_23-PM-1-200x300.png" group-title="Local" http-referrer="https://onezoo.net",V Tamil HD
 #EXTVLCOPT:http-referrer=https://onezoo.net
 https://app.ashokadigital.net/app/89c09acf/index.m3u8
 #EXTINF:-1 tvg-id="Lion TV" tvg-logo="https://tulnit.com/wp-content/uploads/2026/04/ChatGPT-Image-Apr-21-2026-12_23_08-PM-1-200x300.png" group-title="Local" http-referrer="https://onezoo.net",Lion TV
