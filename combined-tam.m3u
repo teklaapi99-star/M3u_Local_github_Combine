@@ -1,85 +1,93 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="V Tamil" tvg-logo="https://tulnit.com/wp-content/uploads/2026/04/ChatGPT-Image-Apr-27-2026-09_11_52-AM-1-200x300.png" group-title="Local" http-referrer="https://onezoo.net",V Tamil
+#EXTINF:-1 tvg-id="Sirippoli" tvg-logo="https://1077dc78.delivery.rocketcdn.me/wp-content/uploads/2020/01/ChatGPT-Image-Nov-4-2025-10_01_25-PM-1.png" group-title="My Tv" http-referrer="https://onezoo.net",Sirippoli
 #EXTVLCOPT:http-referrer=https://onezoo.net
+https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+#EXTINF:-1 tvg-id="Chithiram TV" tvg-logo="https://1077dc78.delivery.rocketcdn.me/wp-content/uploads/2020/01/ChatGPT-Image-Nov-4-2025-10_02_05-PM-1.png" group-title="My Tv" http-referrer="https://onezoo.net",Chithiram TV
+https://cdn-6.pishow.tv/live/1243/master.m3u8
+#EXTINF:-1 tvg-id="Isai Aruvi" tvg-logo="https://1077dc78.delivery.rocketcdn.me/wp-content/uploads/2020/01/ChatGPT-Image-Nov-4-2025-09_58_56-PM-1.png" group-title="My Tv" http-referrer="https://onezoo.net",Isai Aruvi
+https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
+#EXTINF:-1 tvg-id="Colors Tamil HD" tvg-logo="https://1077dc78.delivery.rocketcdn.me/wp-content/uploads/2020/03/ChatGPT-Image-Dec-22-2025-09_36_21-AM-1-200x300.png" group-title="My Tv" http-referrer="https://onezoo.net",Colors Tamil HD
+https://colors.keralive.workers.dev/28072023/smil:colorstamilhd11.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="V Tamil" tvg-logo="https://tulnit.com/wp-content/uploads/2026/04/ChatGPT-Image-Apr-27-2026-09_11_52-AM-1-200x300.png" group-title="My Tv" http-referrer="https://onezoo.net",V Tamil
 https://hlsstream.olidigital.in/vtv/vtv/index.m3u8
-#EXTINF:-1 tvg-id="YET TV Music" tvg-logo="https://tulnit.com/wp-content/uploads/2026/04/ChatGPT-Image-Apr-26-2026-10_03_22-PM-1-200x300.png" group-title="Local" http-referrer="https://onezoo.net",YET TV Music
-https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
-#EXTINF:-1 tvg-id="V Tamil HD" tvg-logo="https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-27-2026-10_56_23-PM-1-200x300.png" group-title="Local" http-referrer="https://onezoo.net",V Tamil HD
+#EXTINF:-1 tvg-id="YET Max" tvg-logo="https://1077dc78.delivery.rocketcdn.me/wp-content/uploads/2026/04/ChatGPT-Image-Jul-23-2026-07_02_07-PM-1-200x300.png" group-title="My Tv" http-referrer="https://onezoo.net",YET Max
+https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8
+#EXTINF:-1 tvg-id="V Tamil HD" tvg-logo="https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-27-2026-10_56_23-PM-1-200x300.png" group-title="My Tv" http-referrer="https://onezoo.net",V Tamil HD
 https://app.ashokadigital.net/app/89c09acf/index.m3u8
-#EXTINF:-1 tvg-id="Lion TV" tvg-logo="https://tulnit.com/wp-content/uploads/2026/04/ChatGPT-Image-Apr-21-2026-12_23_08-PM-1-200x300.png" group-title="Local" http-referrer="https://onezoo.net",Lion TV
+#EXTINF:-1 tvg-id="Lion TV" tvg-logo="https://tulnit.com/wp-content/uploads/2026/04/ChatGPT-Image-Apr-21-2026-12_23_08-PM-1-200x300.png" group-title="My Tv" http-referrer="https://onezoo.net",Lion TV
 https://stream.iplive.xyz/smmedia/liontv/index.m3u8
-#EXTINF:-1 tvg-id="Jeyam Plus" tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-28-2026-10_41_07-PM-1-200x300.png" group-title="Local" http-referrer="https://onezoo.net",Jeyam Plus
+#EXTINF:-1 tvg-id="Jeyam Plus" tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-28-2026-10_41_07-PM-1-200x300.png" group-title="My Tv" http-referrer="https://onezoo.net",Jeyam Plus
 https://ipcloud.live/mmtv/jeyamplus/index.m3u8
-#EXTINF:-1 tvg-id="Star Media" tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-30-2026-03_49_26-PM-1-200x300.png" group-title="Local" http-referrer="https://onezoo.net",Star Media
+#EXTINF:-1 tvg-id="Star Media" tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-30-2026-03_49_26-PM-1-200x300.png" group-title="My Tv" http-referrer="https://onezoo.net",Star Media
 https://rtmp.notvstream.in/starmedia/starmedia/index.m3u8
-#EXTINF:-1 tvg-id="MTV Chennai" tvg-logo="https://tulnit.com/wp-content/uploads/2026/04/ChatGPT-Image-Apr-25-2026-05_51_29-PM-1-200x300.png" group-title="Local" http-referrer="https://onezoo.net",MTV Chennai
+#EXTINF:-1 tvg-id="MTV Chennai" tvg-logo="https://tulnit.com/wp-content/uploads/2026/04/ChatGPT-Image-Apr-25-2026-05_51_29-PM-1-200x300.png" group-title="My Tv" http-referrer="https://onezoo.net",MTV Chennai
 https://stream.ashokadigital.net/mtvlive/mtvlive/index.m3u8
-#EXTINF:-1 tvg-id="Adhiyaman TV" tvg-logo="https://tulnit.com/wp-content/uploads/2026/04/ChatGPT-Image-Apr-27-2026-09_39_51-AM-1-200x300.png" group-title="Local" http-referrer="https://onezoo.net",Adhiyaman TV
+#EXTINF:-1 tvg-id="Adhiyaman TV" tvg-logo="https://tulnit.com/wp-content/uploads/2026/04/ChatGPT-Image-Apr-27-2026-09_39_51-AM-1-200x300.png" group-title="My Tv" http-referrer="https://onezoo.net",Adhiyaman TV
 https://hd.singamcloud.in/adhiyamamtv/adhiyamamtv/index.m3u8
-#EXTINF:-1 tvg-id="Thendral TV Chennai" tvg-logo="https://tulnit.com/wp-content/uploads/2026/04/Dynamic-Tamil-TV-logo-design-1-200x300.png" group-title="Local" http-referrer="https://onezoo.net",Thendral TV Chennai
+#EXTINF:-1 tvg-id="Thendral TV Chennai" tvg-logo="https://tulnit.com/wp-content/uploads/2026/04/Dynamic-Tamil-TV-logo-design-1-200x300.png" group-title="My Tv" http-referrer="https://onezoo.net",Thendral TV Chennai
 https://stream.ashokadigital.net/thendraltv/thendraltv/index.m3u8
-#EXTINF:-1 tvg-id=157 tvg-name="Kumaran TV" tvg-logo="https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-21-2025-09_31_38-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Kumaran TV
-https://stream.rojatv.cloud/kumarantv/gobi/index.m3u8
-#EXTINF:-1 tvg-id=150 tvg-name="Roja TV" tvg-logo="https://oxolive.com/wp-content/uploads/2025/09/ChatGPT-Image-Nov-8-2025-09_15_01-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Roja Tv
+#EXTINF:-1 tvg-id=157 tvg-name="V Muziq HD" tvg-logo="https://1077dc78.delivery.rocketcdn.me/wp-content/uploads/2025/12/ChatGPT-Image-Dec-16-2025-08_23_30-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="My Tv", V Muziq HD
+https://srv4.nellaiiptv.com/live/vmusictv/index.m3u8
+#EXTINF:-1 tvg-id=150 tvg-name="Roja TV" tvg-logo="https://oxolive.com/wp-content/uploads/2025/09/ChatGPT-Image-Nov-8-2025-09_15_01-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="My Tv", Roja Tv
 https://live.rojatv.cloud/rojatv/rojatv/index.m3u8
-#EXTINF:-1 tvg-id=150 tvg-name="SanaPlus"tvg-logo="https://oxolive.com/wp-content/uploads/2025/04/ChatGPT-Image-Oct-18-2025-07_07_00-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", SanaPlus
+#EXTINF:-1 tvg-id=150 tvg-name="SanaPlus"tvg-logo="https://oxolive.com/wp-content/uploads/2025/04/ChatGPT-Image-Oct-18-2025-07_07_00-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="My Tv", SanaPlus
 https://galaxyott.live//hls/sanaplus.m3u8
-#EXTINF:-1 tvg-id=151 tvg-name="Roja Movies" tvg-logo="https://oxolive.com/wp-content/uploads/2025/09/ChatGPT-Image-Nov-8-2025-09_15_14-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Roja Movies
+#EXTINF:-1 tvg-id=151 tvg-name="Roja Movies" tvg-logo="https://oxolive.com/wp-content/uploads/2025/09/ChatGPT-Image-Nov-8-2025-09_15_14-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="My Tv", Roja Movies
 https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
-#EXTINF:-1 tvg-id=152 tvg-name="Thai Tv" tvg-logo="https://oxolive.com/wp-content/uploads/2025/09/ChatGPT-Image-Nov-8-2025-08_57_34-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Thai Tv
-https://ap02.iqplay.tv:8082/hls/thailive/playlist.m3u8
-#EXTINF:-1 tvg-id=153 tvg-name="Yet TV" tvg-logo="https://oxolive.com/wp-content/uploads/2025/08/ChatGPT-Image-Nov-8-2025-08_47_03-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Yet Tv
+#EXTINF:-1 tvg-id=152 tvg-name="Eye Tamil" tvg-logo="https://1077dc78.delivery.rocketcdn.me/wp-content/uploads/2026/06/ChatGPT-Image-Jun-18-2026-11_55_53-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="My Tv", Eye Tamil
+https://recordings.eyetamil.tv/livetv/index.m3u8?token=eyetamil2024
+#EXTINF:-1 tvg-id=153 tvg-name="Yet TV" tvg-logo="https://oxolive.com/wp-content/uploads/2025/08/ChatGPT-Image-Nov-8-2025-08_47_03-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="My Tv", Yet Tv
 https://sstudiostv.stream.onecloudlive.in/sstudiostv/yettv/index.m3u8
-#EXTINF:-1 tvg-id=156 tvg-name="Sooriyan TV Cinema" tvg-logo="https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-22-2026-08_44_41-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Sooriyan TV Cinema
+#EXTINF:-1 tvg-id=156 tvg-name="Sooriyan TV Cinema" tvg-logo="https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-22-2026-08_44_41-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="My Tv", Sooriyan TV Cinema
 https://live20.bozztv.com/giatv/giatv-Sooriyantv/Sooriyantv/playlist.m3u8
-#EXTINF:-1 tvg-id=156 tvg-name="Jayam TV HD" tvg-logo="https://oxolive.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-10-2025-09_44_48-PM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Jayam TV HD
+#EXTINF:-1 tvg-id=156 tvg-name="Jayam TV HD" tvg-logo="https://oxolive.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-10-2025-09_44_48-PM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="My Tv", Jayam TV HD
 https://view.rcserver.in/tmp_hls20/index.m3u8
-#EXTINF:-1 tvg-id=156 tvg-name="Thirai TV" tvg-logo="https://oxolive.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-10-2025-09_24_12-PM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Thirai TV
+#EXTINF:-1 tvg-id=156 tvg-name="Thirai TV" tvg-logo="https://oxolive.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-10-2025-09_24_12-PM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="My Tv", Thirai TV
 https://view.apserver.in/tmp_hls2/thiraitv/index.m3u8
-#EXTINF:-1 tvg-id=156 tvg-name="Jayam TV Namakkal" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-19-2025-04_55_57-PM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Jayam TV Namakkal
+#EXTINF:-1 tvg-id=156 tvg-name="Jayam TV Namakkal" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-19-2025-04_55_57-PM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="My Tv", Jayam TV Namakkal
 https://rtmp.bmlive.net/bms/jayamtv/stream.m3u8
-#EXTINF:-1 tvg-id=156 tvg-name="Sakthi TV HD" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-8-2025-08_43_36-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Sakthi TV HD
+#EXTINF:-1 tvg-id=156 tvg-name="Sakthi TV HD" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-8-2025-08_43_36-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="My Tv", Sakthi TV HD
 https://live.sscloud7.in/live/sakthitv/index.m3u8
-#EXTINF:-1 tvg-id=156 tvg-name="7 Green 4K" tvg-logo="https://oxolive.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-27-2025-10_22_25-PM-2-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", 7 Green 4K
+#EXTINF:-1 tvg-id=156 tvg-name="7 Green 4K" tvg-logo="https://oxolive.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-27-2025-10_22_25-PM-2-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="My Tv", 7 Green 4K
 https://account33.livebox.co.in/7GREEN4Khls/live.m3u8
-#EXTINF:-1 tvg-id=156 tvg-name="Durai TV" tvg-logo="https://oxolive.com/wp-content/uploads/2024/12/ChatGPT-Image-Apr-10-2025-12_33_14-PM-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Durai TV
+#EXTINF:-1 tvg-id=156 tvg-name="Durai TV" tvg-logo="https://oxolive.com/wp-content/uploads/2024/12/ChatGPT-Image-Apr-10-2025-12_33_14-PM-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="My Tv", Durai TV
 https://ipcloud.live/duraitv/live/index.m3u8
-#EXTINF:-1 tvg-id=157 tvg-name="Max Movies" tvg-logo="https://oxolive.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-30-2025-04_47_48-PM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Max Movies
+#EXTINF:-1 tvg-id=157 tvg-name="Max Movies" tvg-logo="https://oxolive.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-30-2025-04_47_48-PM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="My Tv", Max Movies
 https://live.maxtn.in/maxmovies/maxmovies/index.m3u8
-#EXTINF:-1 tvg-id=157 tvg-name="Max Music" tvg-logo="https://oxolive.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-30-2025-04_52_36-PM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Max Music
+#EXTINF:-1 tvg-id=157 tvg-name="Max Music" tvg-logo="https://oxolive.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-30-2025-04_52_36-PM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="My Tv", Max Music
 https://live.maxtn.in/maxmusic/maxmusic/index.m3u8
-#EXTINF:-1 tvg-id=157 tvg-name="KCN HD" tvg-logo="https://oxolive.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-19-2025-10_16_14-PM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", KCN HD
+#EXTINF:-1 tvg-id=157 tvg-name="KCN HD" tvg-logo="https://oxolive.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-19-2025-10_16_14-PM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="My Tv", KCN HD
 https://view.rcserver.in/tmp_hls12/kcntv/index.m3u8
-#EXTINF:-1 tvg-id=157 tvg-name="Jayam TV Karur" tvg-logo="https://oxolive.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-11-2025-04_07_30-PM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Jayam TV Karur
+#EXTINF:-1 tvg-id=157 tvg-name="Jayam TV Karur" tvg-logo="https://oxolive.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-11-2025-04_07_30-PM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="My Tv", Jayam TV Karur
 https://view.rcserver.in/tmp_hls10/jayamtvkarur/index.m3u8
-#EXTINF:-1 tvg-id=157 tvg-name="Kumari TV" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Nov-4-2025-10_13_20-PM-1.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Kumari TV
+#EXTINF:-1 tvg-id=157 tvg-name="Kumari TV" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Nov-4-2025-10_13_20-PM-1.png" tvg-language="Tamil" tvg-type="TV" group-title="My Tv", Kumari TV
 https://rtmp.applelive.in/gvkumaritv/gvkumaritv/index.m3u8
-#EXTINF:-1 tvg-id=157 tvg-name="KCTV" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-10-2025-04_40_29-PM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", KCTV
+#EXTINF:-1 tvg-id=157 tvg-name="KCTV" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-10-2025-04_40_29-PM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="My Tv", KCTV
 https://rtmp.bmlive.net/bms/kctv/stream.m3u8
-#EXTINF:-1 tvg-id=157 tvg-name="Amman TV" tvg-logo="https://oxolive.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-8-2025-08_07_29-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Amman TV
+#EXTINF:-1 tvg-id=157 tvg-name="Amman TV" tvg-logo="https://oxolive.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-8-2025-08_07_29-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="My Tv", Amman TV
 https://app.ashokadigital.net/app/78b1bc36/index.m3u8
-#EXTINF:-1 tvg-id=157 tvg-name="MN TV" tvg-logo="https://tulnit.com/wp-content/uploads/2021/04/ChatGPT-Image-Jan-11-2026-07_34_35-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", MN TV
+#EXTINF:-1 tvg-id=157 tvg-name="MN TV" tvg-logo="https://tulnit.com/wp-content/uploads/2021/04/ChatGPT-Image-Jan-11-2026-07_34_35-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="My Tv", MN TV
 https://mntv.livebox.co.in/mntvhls/live.m3u8
-#EXTINF:-1 tvg-id=157 tvg-name="MN Music" tvg-logo="https://tulnit.com/wp-content/uploads/2021/04/ChatGPT-Image-Sep-23-2025-08_02_37-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", MN Music
+#EXTINF:-1 tvg-id=157 tvg-name="MN Music" tvg-logo="https://tulnit.com/wp-content/uploads/2021/04/ChatGPT-Image-Sep-23-2025-08_02_37-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="My Tv", MN Music
 https://mntv.livebox.co.in/musichls/live.m3u8
-#EXTINF:-1 tvg-id=157 tvg-name="7Star Music" tvg-logo="https://oxolive.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-8-2025-08_00_53-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", 7Star Music
+#EXTINF:-1 tvg-id=157 tvg-name="7Star Music" tvg-logo="https://oxolive.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-8-2025-08_00_53-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="My Tv", 7Star Music
 https://app.ashokadigital.net/app/9346e98d/index.m3u8
-#EXTINF:-1 tvg-id=157 tvg-name="7Star TV" tvg-logo="https://oxolive.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-8-2025-08_00_55-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", 7Star TV
+#EXTINF:-1 tvg-id=157 tvg-name="7Star TV" tvg-logo="https://oxolive.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-8-2025-08_00_55-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="My Tv", 7Star TV
 https://app.ashokadigital.net/app/ed8bd4a7/index.m3u8
-#EXTINF:-1 tvg-id=157 tvg-name="RJ Tamil TV" tvg-logo="https://oxolive.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-27-2025-10_25_51-PM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", RJ Tamil TV
+#EXTINF:-1 tvg-id=157 tvg-name="RJ Tamil TV" tvg-logo="https://oxolive.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-27-2025-10_25_51-PM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="My Tv", RJ Tamil TV
 https://ipcloud.live/rjtamiltv/rjtamil/index.m3u8
-#EXTINF:-1 tvg-id=157 tvg-name="Boys TV" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-19-2025-04_49_59-PM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Boys TV
+#EXTINF:-1 tvg-id=157 tvg-name="Boys TV" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-19-2025-04_49_59-PM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="My Tv", Boys TV
 https://rtmp.applelive.in/boystv/boystv/index.m3u8
-#EXTINF:-1 tvg-id=157 tvg-name="RC Music" tvg-logo="https://oxolive.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-10-2025-10_13_53-PM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", RC Music
+#EXTINF:-1 tvg-id=157 tvg-name="RC Music" tvg-logo="https://oxolive.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-10-2025-10_13_53-PM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="My Tv", RC Music
 https://view.rcserver.in/tmp_hls2/stream/index.m3u8
-#EXTINF:-1 tvg-id=157 tvg-name="Jawahar TV HD" tvg-logo="https://tulnit.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-8-2025-08_13_17-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Jawahar TV HD
+#EXTINF:-1 tvg-id=157 tvg-name="Jawahar TV HD" tvg-logo="https://tulnit.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-8-2025-08_13_17-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="My Tv", Jawahar TV HD
 https://app.ashokadigital.net/app/6a01fb97/index.m3u8
-#EXTINF:-1 tvg-id=157 tvg-name="Tharun Movies HD" tvg-logo="https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-21-2025-09_43_13-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", Tharun Movies HD
+#EXTINF:-1 tvg-id=157 tvg-name="Tharun Movies HD" tvg-logo="https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-21-2025-09_43_13-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="My Tv", Tharun Movies HD
 https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
-#EXTINF:-1 tvg-id=157 tvg-name="PCN Channel HD" tvg-logo="https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-22-2026-09_16_25-PM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", PCN Channel HD
+#EXTINF:-1 tvg-id=157 tvg-name="PCN Channel HD" tvg-logo="https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-22-2026-09_16_25-PM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="My Tv", PCN Channel HD
 https://pcntv.wmsdigital.in/hls/gtv/stream.m3u8
-#EXTINF:-1 tvg-id=157 tvg-name="SK TV" tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Nov-8-2025-08_52_27-AM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="Local", SK TV
-https://stream.galaxyott.live/live/sktv/index.m3u8
+#EXTINF:-1 tvg-id=157 tvg-name="TDN HD" tvg-logo="https://1077dc78.delivery.rocketcdn.me/wp-content/uploads/2025/09/ChatGPT-Image-May-11-2026-09_50_45-PM-1-200x300.png" tvg-language="Tamil" tvg-type="TV" group-title="My Tv", TDN HD
+https://live.maxtn.in/tdn/tdn/index.m3u8
 #EXTINF:-1 tvg-id=157 tvg-name="Modern Marvels" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-27-2025-09_22_18-PM-1-200x300.png" tvg-language="English" tvg-type="TV" group-title="Documentary", Modern Marvels
 https://debzvrwex1ip7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-59uqfidguq5ol/v1/aenetworks_modernmarvels_2/samsungheadend_ca/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id=157 tvg-name="HOW TO by WB TV" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-6-2026-09_31_51-AM-1-200x300.png" tvg-language="English" tvg-type="TV" group-title="Documentary", HOW TO by WB TV
@@ -129,7 +137,6 @@ https://arputharyesutv.arputharyesutv.com/live/md/index.m3u8
 #EXTINF:-1 tvg-id="AsiaTV.lk@HD" tvg-logo="https://saddlebrown-jellyfish-181801.hostingersite.com/ATV-logo.png" group-title="TV",Asia TV (720p)
 https://stream.asiatvnet.com/1/live/master.m3u8
 #EXTINF:-1 tvg-id="Chithiram.in@SD" tvg-logo="https://i.imgur.com/xv9cWSh.png" group-title="TV",Chithiram (576p)
-https://cdn-6.pishow.tv/live/1243/master.m3u8
 #EXTINF:-1 tvg-id="ColorsTamil.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_TAMIL/images/LOGO_HD/image.png" group-title="TV",Colors Tamil HD (1080p)
 http://103.72.101.252:8080/live/429.m3u8
 #EXTINF:-1 tvg-id="DDTamil.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_TAMIL/images/LOGO_HD/image.png" group-title="TV",DD Tamil (1080p)
