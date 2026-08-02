@@ -2,6 +2,40 @@
 #EXTINF:-1 tvg-id="Sirippoli" tvg-logo="https://1077dc78.delivery.rocketcdn.me/wp-content/uploads/2020/01/ChatGPT-Image-Nov-4-2025-10_01_25-PM-1.png" group-title="My Tv" http-referrer="https://onezoo.net",Sirippoli
 #EXTVLCOPT:http-referrer=https://onezoo.net
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+#EXTINF:-1 tvg-id="Kalaignar TV" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2020/01/ChatGPT-Image-Nov-4-2025-09_55_31-PM-1.png" group-title="My Tv" http-referrer="https://onezoo.net",Kalaignar TV
+#EXTVLCOPT:http-referrer=https://onezoo.net
+https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
+#EXTINF:-1 tvg-id="MK Six" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2023/11/ChatGPT-Image-Apr-10-2025-11_37_09-AM-200x300.png" group-title="My Tv" http-referrer="https://onezoo.net",MK Six
+#EXTVLCOPT:http-referrer=https://onezoo.net
+https://cdn-3.pishow.tv/live/1253/master.m3u8
+#EXTINF:-1 tvg-id="Tunes6" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tunes_6.png" group-title="TV",Tunes 6
+https://stream.d6-pro.com/tunes6music/live/video.m3u8
+#EXTINF:-1 tvg-id="Polimer News" tvg-logo="https://dtil.tmsimg.com/assets/s143664_ld_h9_aa.png?lock=720x540" group-title="News" http-referrer="https://onezoo.net",Polimer News
+#EXTVLCOPT:http-referrer=https://onezoo.net
+https://cdn-3.pishow.tv/live/1245/master.m3u8
+#EXTINF:-1 tvg-id="PuthiyaThalaimurai" tvg-logo="https://dtil.tmsimg.com/assets/s143664_ld_h9_aa.png?lock=720x540" group-title="News" http-referrer="https://onezoo.net",PuthiyaThalaimurai
+#EXTVLCOPT:http-referrer=https://onezoo.net
+https://cdn-3.pishow.tv/live/1261/master.m3u8
+#EXTINF:-1 tvg-id="NewsJ" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_J/images/LOGO_HD/image.png" group-title="News" http-referrer="https://onezoo.net",NewsJ
+#EXTVLCOPT:http-referrer=https://onezoo.net
+https://cdn-3.pishow.tv/live/1261/master.m3u8
+#EXTINF:-1 tvg-id="NewsTamil24x7" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_TAMIL_24X7/images/LOGO_HD/image.png" group-title="News" http-referrer="https://onezoo.net",NewsTamil24x7
+#EXTVLCOPT:http-referrer=https://onezoo.net
+https://cdn-3.pishow.tv/live/1433/master.m3u8
+#EXTINF:-1 tvg-id="News7Tamil" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS7_TAMIL/images/LOGO_HD/image.png" group-title="News" http-referrer="https://onezoo.net",News7Tamil
+#EXTVLCOPT:http-referrer=https://onezoo.net
+https://cdn-3.pishow.tv/live/1498/master.m3u8
+#EXTINF:-1 tvg-id="News18TamilNadu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_TAMIL_NADU/images/LOGO_HD/image.png" group-title="News",News18 Tamil Nadu (1080p)
+https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="ThanthiTV" tvg-logo="https://dtil.tmsimg.com/assets/s144000_ld_h15_aa.png?lock=720x540" group-title="News",Thanthi TV
+https://cdn-3.pishow.tv/live/1612/master.m3u8
+#EXTINF:-1 tvg-id="Tunes6" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tunes_6.png" group-title="My Tv",Tunes 6
+https://stream.d6-pro.com/tunes6music/live/video.m3u8
+#EXTINF:-1 tvg-id="VijayTakkar" tvg-logo="https://dtil.tmsimg.com/assets/s144078_ld_h15_aa.png?lock=720x540" group-title="My Tv",Vijay Takkar
+https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd
+#EXTINF:-1 tvg-id="VendharTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vendhar_TV.png" group-title="My Tv" http-referrer="https://onezoo.net",VendharTV
+#EXTVLCOPT:http-referrer=https://onezoo.net
+https://cdn-3.pishow.tv/live/1271/master.m3u8
 #EXTINF:-1 tvg-id="Chithiram TV" tvg-logo="https://1077dc78.delivery.rocketcdn.me/wp-content/uploads/2020/01/ChatGPT-Image-Nov-4-2025-10_02_05-PM-1.png" group-title="My Tv" http-referrer="https://onezoo.net",Chithiram TV
 #EXTVLCOPT:http-referrer=https://onezoo.net
 https://cdn-6.pishow.tv/live/1243/master.m3u8
@@ -17,6 +51,9 @@ https://hlsstream.olidigital.in/vtv/vtv/index.m3u8
 #EXTINF:-1 tvg-id="YET Max" tvg-logo="https://1077dc78.delivery.rocketcdn.me/wp-content/uploads/2026/04/ChatGPT-Image-Jul-23-2026-07_02_07-PM-1-200x300.png" group-title="My Tv" http-referrer="https://onezoo.net",YET Max
 #EXTVLCOPT:http-referrer=https://onezoo.net
 https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8
+#EXTINF:-1 tvg-id="Prime Music HD" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2026/04/ChatGPT-Image-Apr-28-2026-08_18_51-PM-1-200x300.png" group-title="My Tv" http-referrer="https://onezoo.net",Prime Music HD
+#EXTVLCOPT:http-referrer=https://onezoo.net
+https://live.primestream.in/prime/music/index.m3u8
 #EXTINF:-1 tvg-id="V Tamil HD" tvg-logo="https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-27-2026-10_56_23-PM-1-200x300.png" group-title="My Tv" http-referrer="https://onezoo.net",V Tamil HD
 #EXTVLCOPT:http-referrer=https://onezoo.net
 https://app.ashokadigital.net/app/89c09acf/index.m3u8
