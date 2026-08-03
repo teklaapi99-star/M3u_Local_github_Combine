@@ -32,6 +32,10 @@ https://cdn-6.pishow.tv/live/1243/master.m3u8
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #EXTINF:-1 tvg-id="Jayam TV Trichy" tvg-logo="https://1077dc78.delivery.rocketcdn.me/wp-content/uploads/2026/04/ChatGPT-Image-Apr-27-2026-09_19_07-AM-1-200x300.png" group-title="My Tv" http-referrer="https://onezoo.net",Jayam TV Trichy
 https://live.onecloudlive.in/jmhd/jmtv/index.m3u8
+#EXTINF:-1 tvg-id="Movies HD Tamil" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2026/08/ChatGPT-Image-Aug-2-2026-09_29_34-PM-1-200x300.png" group-title="My Tv" http-referrer="https://onezoo.net",Movies HD Tamil
+https://yet-plus.keralive.workers.dev/LiveApp/streams/movieshd.m3u8
+#EXTINF:-1 tvg-id="Loop Tamil" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2026/08/ChatGPT-Image-Aug-2-2026-09_06_29-PM-1-200x300.png" group-title="My Tv" http-referrer="https://onezoo.net",Loop Tamil
+https://yet-plus.keralive.workers.dev/LiveApp/streams/looptamil.m3u8
 #EXTINF:-1 tvg-id="V Tamil" tvg-logo="https://tulnit.com/wp-content/uploads/2026/04/ChatGPT-Image-Apr-27-2026-09_11_52-AM-1-200x300.png" group-title="My Tv" http-referrer="https://onezoo.net",V Tamil
 https://hlsstream.olidigital.in/vtv/vtv/index.m3u8
 #EXTINF:-1 tvg-id="YET Max" tvg-logo="https://1077dc78.delivery.rocketcdn.me/wp-content/uploads/2026/04/ChatGPT-Image-Jul-23-2026-07_02_07-PM-1-200x300.png" group-title="My Tv" http-referrer="https://onezoo.net",YET Max
