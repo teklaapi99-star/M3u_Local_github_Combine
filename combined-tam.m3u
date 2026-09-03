@@ -169,8 +169,6 @@ https://stream.asiatvnet.com/1/live/master.m3u8
 #EXTINF:-1 tvg-id="BeritaRTM.my@SD" tvg-logo="https://i.imgur.com/1Xzxsgl.png" http-referrer="https://rtm-player.glueapi.io/" group-title="TV",Berita RTM [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
-#EXTINF:-1 tvg-id="BrioTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Brio_TV.png" group-title="TV",Brio TV (576p)
-https://mumt03.tangotv.in/Dsly5z3HBRIOTV/index.m3u8
 #EXTINF:-1 tvg-id="Chithiram.in@SD" tvg-logo="https://i.imgur.com/xv9cWSh.png" group-title="TV",Chithiram (576p)
 #EXTINF:-1 tvg-id="ColorsTamil.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_TAMIL/images/LOGO_HD/image.png" group-title="TV",Colors Tamil HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist.m3u8
@@ -180,12 +178,18 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/in
 https://cable91tataplay.akamaized.net/live/dharshantv/index.m3u8
 #EXTINF:-1 tvg-id="DhoolTV.in@SD" tvg-logo="https://i.ibb.co/Rk78p2LB/dhooltv.png" group-title="TV",Dhool TV (576p)
 https://mumt04.tangotv.in/m18aqlK4SUBHARTITV/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LOGO_HD/image.png" group-title="TV",Disney Channel (576p)
+http://202.70.146.135:8000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL_HD/images/LOGO_HD/image.png" group-title="TV",Disney Channel HD (1080p)
+http://66.102.126.10:8000/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png" group-title="TV",Disney Junior (576p)
 http://149.71.34.166:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="EETTV.ca@SD" tvg-logo="https://i.imgur.com/rntSEDZ.png" group-title="TV",EET TV (1080p) [Not 24/7]
 https://eu.streamjo.com/eetlive/eettv.m3u8
 #EXTINF:-1 tvg-id="EETTV.in@SD" tvg-logo="https://i.imgur.com/rMldFW8.png" group-title="TV",EET TV (1080p) [Not 24/7]
 https://live.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1 tvg-id="ETVBalBharat.in@SD" tvg-logo="https://i.imgur.com/zsTxPV9.png" group-title="TV",ETV Bal Bharat (576p)
+http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
 #EXTINF:-1 tvg-id="HebronTV.in@SD" tvg-logo="https://i0.wp.com/hebrontv.in/wp-content/uploads/2023/11/hebron-.png?w=512" group-title="TV",Hebron TV (1080p)
 https://account20.livebox.co.in/charleshls/live.m3u8
 #EXTINF:-1 tvg-id="HistoryTV18.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143132_ld_h15_aa.png?lock=720x540" group-title="TV",History TV18 (576p)
@@ -194,6 +198,8 @@ http://103.72.101.252:8080/live/1471.m3u8
 http://103.154.3.101:5001/live/577.m3u8
 #EXTINF:-1 tvg-id="HosannaTV.in@Tamil" tvg-logo="https://i.imgur.com/VYorU1L.png" group-title="TV",Hosanna TV
 https://asia.mslivestream.net/mslive/bfba54c5c96a6359e2da0ca35f4998af.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="HungamaTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LOGO_HD/image.png" group-title="TV",Hungama TV (576p)
+http://103.185.24.134:3001/HUNGAMA/index.m3u8
 #EXTINF:-1 tvg-id="IBCBakthi.uk@SD" tvg-logo="https://i.imgur.com/ZNEz5Wx.png" group-title="TV",IBC Bakthi (1080p)
 https://ibc.massstream.net/IBC2/index.m3u8
 #EXTINF:-1 tvg-id="IBCTamil.uk@SD" tvg-logo="https://i.imgur.com/uVt9vBa.png" group-title="TV",IBC Tamil (1080p)
@@ -244,6 +250,8 @@ https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8
 https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
 #EXTINF:-1 tvg-id="NambikkaiTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAMBIKKAI_TV/images/LOGO_HD/image.png" group-title="TV",Nambikkai TV (576p)
 https://mumt02.tangotv.in/NAMBIKKAITV/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540" group-title="TV",National Geographic HD (576p)
+http://103.165.93.31:8095/nationalGeographic/index.m3u8
 #EXTINF:-1 tvg-id="NDTVGoodTimes.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOOD_TIMES/images/LOGO_HD/image.png" group-title="TV",NDTV Good Times (1080p)
 https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="NDTVLANKA.lk@SD" tvg-logo="https://i.imgur.com/5cyTVRJ.png" group-title="TV",NDTV LANKA (1080p)
@@ -254,6 +262,8 @@ https://segment.yuppcdn.net/240122/news7/playlist.m3u8
 #EXTINF:-1 tvg-id="NewsJ.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_J/images/LOGO_HD/image.png" group-title="TV",News J (720p) [Not 24/7]
 https://cdn-3.pishow.tv/live/1279/master.m3u8
 #EXTINF:-1 tvg-id="NewsTamil24x7.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_TAMIL_24X7/images/LOGO_HD/image.png" group-title="TV",News Tamil 24x7 (576p)
+#EXTINF:-1 tvg-id="Nickelodeon.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png" group-title="TV",Nickelodeon (576p)
+http://103.185.24.134:3001/NICK/index.m3u8
 #EXTINF:-1 tvg-id="NTCTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ntvtamil.png" group-title="TV",NTC TV (720p)
 https://galaxyott.live/hls/ntv.m3u8
 #EXTINF:-1 tvg-id="Okey.my@SD" tvg-logo="https://i.imgur.com/V2jREQ5.png" http-referrer="https://rtm-player.glueapi.io/" group-title="TV",Okey [Geo-blocked]
@@ -294,10 +304,18 @@ https://mumt05.tangotv.in/87NeALx2SRISANKARA/index.m3u8
 http://ptuf.ridsys.in/riptv/live/KALAIGNAR_SIRIPOLI/index.m3u8
 #EXTINF:-1 tvg-id="SivanTV.ch@SD" tvg-logo="https://i.ibb.co/b3HG9wm/Logo-site.png" group-title="TV",Sivan TV (1080p)
 http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
+#EXTINF:-1 tvg-id="Sonic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png" group-title="TV",Sonic (576p)
+http://103.185.24.134:3001/SONIC/index.m3u8
 #EXTINF:-1 tvg-id="SonyPix.in@HD" tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png" group-title="TV",Sony Pix HD (1080p) [Geo-blocked]
 https://sl.vodep39240327.workers.dev/channel/SONY+PIX+HD.m3u8
+#EXTINF:-1 tvg-id="SonyYay.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_YAY/images/LOGO_HD/image.png" group-title="TV",Sony Yay! (576p)
+http://103.165.93.31:8095/sonyYay/index.m3u8
 #EXTINF:-1 tvg-id="SooriyanTV.ca@SD" tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg" group-title="TV",Sooriyan TV (1080p)
 https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
+#EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="TV",Star Movies HD (1080p)
+http://66.102.126.10:8000/play/a021/index.m3u8
+#EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png" group-title="TV",Star Movies Select HD (1080p)
+http://66.102.126.10:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="StarSports2.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" group-title="TV",Star Sports 2 HD (720p)
 http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
 #EXTINF:-1 tvg-id="StarTamilTelevision.lk@SD" tvg-logo="https://i.imgur.com/fjHcr9z.jpg" group-title="TV",Star Tamil Television (360p)
@@ -308,6 +326,8 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u
 http://149.71.34.166:8000/play/a06i/index.m3u8
 #EXTINF:-1 tvg-id="SubinTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/subintvtamil.png" group-title="TV",Subin TV (1080p)
 https://stream.galaxyott.live/live/subintv/index.m3u8
+#EXTINF:-1 tvg-id="SuperHungama.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUPER_HUNGAMA/images/LOGO_HD/image.png" group-title="TV",Super Hungama (576p)
+http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
 #EXTINF:-1 tvg-id="SuriyaTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/suryatvtamil.png" group-title="TV",Suriya TV (1080p)
 https://stream.ottlive.co.in/suryatvtamil/index.m3u8
 #EXTINF:-1 tvg-id="SuriyanTV.in@SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Suriyan-tv-logo_2000_X_1125_Transpharent.png" group-title="TV",Suriyan TV (576p)
