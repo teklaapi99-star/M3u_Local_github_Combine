@@ -226,11 +226,12 @@ https://mumt07.tangotv.in/zHjX9OFlMADHATV/index.m3u8
 https://mumt01.tangotv.in/O5aw8Zn3MATHIMUGAMTV/index.m3u8
 #EXTINF:-1 tvg-id="MakkalTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MAKKAL_TV/images/LOGO_HD/image.png" group-title="TV",Makkal TV (576i)
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="MalaiMurasuTV.in@SD" tvg-logo="https://i.imgur.com/OC5TQxp.png" group-title="TV",Malai Murasu TV (1080p) [Geo-blocked]
-https://amg17783-amg17783c1-amgplt0173.playout.now3.amagi.tv/playlist/amg17783-amg17783c1-amgplt0173/playlist.m3u8
+#EXTINF:-1 tvg-id="MalaiMurasuTV.in@SD" tvg-logo="https://i.imgur.com/OC5TQxp.png" group-title="TV",Malai Murasu TV (576p)
+https://streams.tangotv.in/MALAIMURASUSEITHIGAL/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="MalarTV.in@SD" tvg-logo="" group-title="TV",Malar TV (720p) [Not 24/7]
 https://cdn-3.pishow.tv/live/473/master.m3u8
-#EXTINF:-1 tvg-id="MKSix.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MK_Six.png" group-title="TV",MK Six (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="MKSix.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MK_Six.png" group-title="TV",MK Six (576p)
+https://mumt06.tangotv.in/qYyB8fXVMKSIX/index.m3u8
 #EXTINF:-1 tvg-id="MarutamTV.in@SD" tvg-logo="https://i.imgur.com/cFNw4Af.png" group-title="TV",MNTV (1080p)
 #EXTINF:-1 tvg-id="MonaraTV.lk@SD" tvg-logo="https://i.imgur.com/EB99mzR.png" group-title="TV",Monara TV (720p) [Not 24/7]
 https://jk3lz8xklw79-hls-live.5centscdn.com/lpl/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
